@@ -10,7 +10,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/192005chandrakant",
   resume:
-    "https://drive.google.com/file/d/1LdX6WyJtkMt0Ajn8I4a7iWO_9JWy0v3j/view?usp=sharing",
+    "https://drive.google.com/file/d/1-i7TONlZwOi3I6AuYAt-jxx7lAfn2p1t/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/chandrakant-tripathi192005/",
   twitter: "https://x.com/Chandrakant019",
   insta: "https://www.instagram.com/c15_adarash/?hl=en",
