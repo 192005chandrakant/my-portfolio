@@ -31,11 +31,11 @@ export const skills = [
         image:
           "https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg",
       },
-      // {
-      //   name: "Next Js",
-      //   image:
-      //     "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACTklEQVR4Ab1XAaQqURB9DyohSykREpRIQSAlBCoECKUFCSRCBBEAaSEABQEoCIEASCwAUICALgCo83do0//9v819XX845O7VnDkzOzP7JWGaBd3C3IJpQVjAHeJ+Rs9a97vKLGrBsB1KgMhEP3FMUUwt4ENMfxr1yQIU4SSjRkbeOZtERmHk6pXQVDlnkHh9S+QLTm1hkiz4n/gzFQuny9FoFLquE+i34x+n02k0m00UCoV3BIzn3MMJrVYLtp1OJ0cS/X4f5/MZhmG8IyDsWtDfEaDIn2232/3zbrvdxuFwwGg04qRBt+VnETBNE0IIkE2n07/erdfrWK/X6Ha73Hb9ZXII3G43ivy3dNRqtZe7lUoFs9mM6oBDwCQCgquALT1FT3a5XF7qIZ/PYzgcolqtcggIIgBZAgRKB6lCRalp2uM8k8mAVMrlchwC+DEBipycE4n5fP44j8ViKJVKSCaTbAJCpgaez4vFIsjoWa/XA50FAgEkEgmEw2F2CkxZBZ5Br5tt1ITcbjd8Ph88Hg+7CBefECCsVitS4aVJcV9D/VMCVITk/Hq9YrPZyBBo2a1YMGvAcQYcj0cCtWMugcdYNhjDiBrP25mx3++x3W6RzWZZ8isfxzQLlsslJpMJpYY5jhkqcOH1ejEYDDAej9FoNOByuZxGsfqVzC7KTqcDSkkqleKsZOqX0mAwiHK5DGrJfr+fs5SqX8sjkQji8ThCoRC+v78Za7l6JagrUh3YkUuZpqgwDaecc9VYSDoV5Fg+at7n+eLN57kuE/EvzHr/Kvs31aYAAAAASUVORK5CYII=",
-      // },
+      {
+        name: "Next Js",
+        image:
+          "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACTklEQVR4Ab1XAaQqURB9DyohSykREpRIQSAlBCoECKUFCSRCBBEAaSEABQEoCIEASCwAUICALgCo83do0//9v819XX845O7VnDkzOzP7JWGaBd3C3IJpQVjAHeJ+Rs9a97vKLGrBsB1KgMhEP3FMUUwt4ENMfxr1yQIU4SSjRkbeOZtERmHk6pXQVDlnkHh9S+QLTm1hkiz4n/gzFQuny9FoFLquE+i34x+n02k0m00UCoV3BIzn3MMJrVYLtp1OJ0cS/X4f5/MZhmG8IyDsWtDfEaDIn2232/3zbrvdxuFwwGg04qRBt+VnETBNE0IIkE2n07/erdfrWK/X6Ha73Hb9ZXII3G43ivy3dNRqtZe7lUoFs9mM6oBDwCQCgquALT1FT3a5XF7qIZ/PYzgcolqtcggIIgBZAgRKB6lCRalp2uM8k8mAVMrlchwC+DEBipycE4n5fP44j8ViKJVKSCaTbAJCpgaez4vFIsjoWa/XA50FAgEkEgmEw2F2CkxZBZ5Br5tt1ITcbjd8Ph88Hg+7CBefECCsVitS4aVJcV9D/VMCVITk/Hq9YrPZyBBo2a1YMGvAcQYcj0cCtWMugcdYNhjDiBrP25mx3++x3W6RzWZZ8isfxzQLlsslJpMJpYY5jhkqcOH1ejEYDDAej9FoNOByuZxGsfqVzC7KTqcDSkkqleKsZOqX0mAwiHK5DGrJfr+fs5SqX8sjkQji8ThCoRC+v78Za7l6JagrUh3YkUuZpqgwDaecc9VYSDoV5Fg+at7n+eLN57kuE/EvzHr/Kvs31aYAAAAASUVORK5CYII=",
+      },
       // {
       //   name: "Angular Js",
       //   image:
@@ -117,10 +117,10 @@ export const skills = [
         image:
           "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg",
       },
-      // {
-      //   name: "Firebase",
-      //   image: "https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg",
-      // },
+      {
+        name: "Firebase",
+        image: "https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg",
+      },
     ],
   },
   // {
@@ -197,14 +197,14 @@ export const skills = [
   //     },
   //   ],
   // },
-  // {
-  //   title: "Machine Learning",
-  //   skills: [
-  //     {
-  //       name: "Python",
-  //       image:
-  //         "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg",
-  //     },
+   {
+    title: "Machine Learning",
+    skills: [
+      {
+        name: "Python",
+        image:
+          "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg",
+      },
   //     {
   //       name: "Tenserflow",
   //       image:
@@ -215,23 +215,24 @@ export const skills = [
   //       image:
   //         "https://miro.medium.com/v2/resize:fit:600/1*DKu_54iqz6C-p6ndo7rO3g.png",
   //     },
-  //     {
-  //       name: "Jupyter",
-  //       image:
-  //         "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1767px-Jupyter_logo.svg.png",
-  //     },
-  //     {
-  //       name: "Google Colab",
-  //       image:
-  //         "https://assets.stickpng.com/images/63c2e4c9c4baad4ce22bf9ef.png",
-  //     },
+      {
+        name: "Jupyter",
+        image:
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1767px-Jupyter_logo.svg.png",
+      },
+      {
+        name: "Google Colab",
+        image:
+      require("./image/colab.png"),
+         
+      },
   //     {
   //       name: "Sk Learn Kit",
   //       image:
   //         "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png",
   //     },
-  //   ],
-  // },
+   ],
+   },
   {
     title: "Others",
     skills: [
@@ -405,7 +406,7 @@ export const education = [
     img: require("./image/priyadarshini.jpg"),
     school: "Priyadarshini College of Engineering ,Nagpur",
     date: "sep 2023 - july 2027",
-    grade: "9.34 CGPA",
+    grade: "9.53 CGPA",
     desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at Priyadarshini College of Engineering , Nagpur. I have completed 3 semesters and have a CGPA of 9.34. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming and Database Management Systems, among others."
   },
   {
@@ -430,26 +431,66 @@ export const education = [
 
 export const projects= [
   {
-      id: 7,
-      title: " Community Compass",
-      date: "Aug 2024 - Sep 2024",
-      description:
-        'Developed "Community Compass", a website designed to assist immigrant and migrant workers in accessing vital information about the latest government schemes. The platform provides an intuitive and user-friendly interface with seamless multilingual support, allowing users to switch effortlessly between Hindi, Marathi, and English. It ensures an inclusive and responsive experience, catering to the diverse needs of its users across different devices. By focusing on delivering up-to-date and relevant content, the website serves as a reliable resource for workers seeking crucial information to improve their livelihoods.' ,
-      image:require("./image/community.png"),
-        
-      tags: [
-        " HTML",
-        "CSS",
-        " JavaScript",
-        "Bootstrap",
+    id: 1,
+    title: "YOOM APP",
+    date: "jan 2025",
+    description:
+      "YOOM is a Zoom-like web application built with Next.js, Tailwind CSS, and TypeScript, offering real-time video streaming via Stream, secure authentication using Clerk, and video recording features. It provides seamless meeting management, multi-user support, and a modern, fully responsive UI for optimal performance across all devices.",
+      image:require("./image/yoom.png"),
+      tags: ["Next.js", "Tailwind CSS", "TypeScript", "Stream", "Clerk", "WebRTC", "Video Streaming", "Video Recording", "Authentication", "Responsive Design", "Real-time Communication"],
+
+    category: "web app",
+    github: "https://github.com/192005chandrakant/yoom-app",
+    webapp: "https://yoom-app-theta.vercel.app/",
+  },
+  {
+    id: 3,
+    title: " Currency Converter",
+    date: "Nov 2023 - Nov 2023",
+    description:
+      'Developed a "Player vs Computer" Tic Tac Toe Game, offering an engaging single-player experience with computer-generated random moves. The game features real-time result display, immediately indicating the winner or a draw at the end of each round. It also includes a scorekeeping functionality to track wins, losses, and draws, adding a competitive element to the gameplay. With a convenient "Play Again" option, users can easily restart the game and continue enjoying the experience. This project integrates dynamic features and ensures a smooth, interactive gaming experience for players.',
+    image: require("./image/Currency.jpeg"),
+    tags: ["HTML"," CSS", "JavaScript", "API"],
+    category: "web app",
+    github: "https://github.com/192005chandrakant/currency-converter-website-",
+    webapp: "https://192005chandrakant.github.io/currency-converter-website-/",
+    //  member:[
+    //   {
+    //     name: "XYZ",
+    //     img: "",
+    //     linkedin: "",
+    //     github: "",
+    //   },
+    //   {
+    //     name: "ABC",
+    //     img: "",
+    //     linkedin: "",
+    //     github: "",
+    //  },
+    // ],
+  },
+  {
+    id: 4,
+    title: " Community Compass",
+    date: "Aug 2024 - Sep 2024",
+    description:
+      'Developed "Community Compass", a website designed to assist immigrant and migrant workers in accessing vital information about the latest government schemes. The platform provides an intuitive and user-friendly interface with seamless multilingual support, allowing users to switch effortlessly between Hindi, Marathi, and English. It ensures an inclusive and responsive experience, catering to the diverse needs of its users across different devices. By focusing on delivering up-to-date and relevant content, the website serves as a reliable resource for workers seeking crucial information to improve their livelihoods.' ,
+    image:require("./image/community.png"),
       
-      ],
-      category: "web app",
-      github: "https://github.com/192005chandrakant/community-compass",
-      webapp: "https://192005chandrakant.github.io/community-compass/",
-    },
+    tags: [
+      " HTML",
+      "CSS",
+      " JavaScript",
+      "Bootstrap",
+    
+    ],
+    category: "web app",
+    github: "https://github.com/192005chandrakant/community-compass",
+    webapp: "https://192005chandrakant.github.io/community-compass/",
+  },
+  
     {
-      id: 2,
+      id: 8,
       title: "AUTO-REPLY AI CHATBOT ",
       date: "Dec 2024 - Dec 2024",
       description:
@@ -461,8 +502,9 @@ export const projects= [
       github: "https://github.com/192005chandrakant/-AUTO-REPLY-AI-CHATBOT",
       webapp: "https://github.com/192005chandrakant/-AUTO-REPLY-AI-CHATBOT",
     },
+   
     {
-      id: 3,
+      id: 7,
       title: "Voice Recognition and Virtual Assistant ",
       date: "Dec 2024 - Dec 2024",
       description:
@@ -476,7 +518,7 @@ export const projects= [
     {
       id: 6,
       title: "Tic-tak-Toe",
-      date: "Jul 2024 - Jul 2024",
+      date: "Jul 2024",
       description:
         'Developed "Tic Tac Toe", a classic two-player game that provides an engaging and interactive experience. The application features a clean, minimalistic design with a user-friendly interface, ensuring a seamless experience for players. Its responsive layout guarantees compatibility across various devices and screen sizes. The game includes interactive gameplay with automatic turn switching between players, real-time win detection, and instant game status updates. Additionally, a reset functionality allows players to start new games effortlessly, making it a highly enjoyable and accessible digital version of the traditional game',
       image:
@@ -488,36 +530,24 @@ export const projects= [
       github: "https://github.com/192005chandrakant/tik-tak-toe-game",
       webapp: "https://192005chandrakant.github.io/tik-tak-toe-game/",
     },
+    
     {
-      id: 5,
-      title: " Currency Converter",
-      date: "Nov 2024 - Nov 2024",
+      id: 2,
+      title: "Todo Web App",
+      date: "July 2024",
       description:
-        'Developed a "Player vs Computer" Tic Tac Toe Game, offering an engaging single-player experience with computer-generated random moves. The game features real-time result display, immediately indicating the winner or a draw at the end of each round. It also includes a scorekeeping functionality to track wins, losses, and draws, adding a competitive element to the gameplay. With a convenient "Play Again" option, users can easily restart the game and continue enjoying the experience. This project integrates dynamic features and ensures a smooth, interactive gaming experience for players.',
-      image: require("./image/Currency.jpeg"),
-      tags: ["HTML"," CSS", "JavaScript", "API"],
+        " A simple and responsive Todo app built with React, allowing users to effortlessly add and delete tasks. Designed for ease of use and smooth performance.",
+        image:require("./image/todo.png"),
+        
+      tags: ["React Js", "Local Storage"],
       category: "web app",
-      github: "https://github.com/192005chandrakant/currency-converter-website-",
-      webapp: "https://192005chandrakant.github.io/currency-converter-website-/",
-      //  member:[
-      //   {
-      //     name: "XYZ",
-      //     img: "",
-      //     linkedin: "",
-      //     github: "",
-      //   },
-      //   {
-      //     name: "ABC",
-      //     img: "",
-      //     linkedin: "",
-      //     github: "",
-      //  },
-      // ],
+      github: "https://github.com/192005chandrakant/todos-app",
+      webapp: "https://todosappnew.netlify.app/",
     },
     {
       id: 4,
       title: "Rock-Paper-Scissors",
-      date: "Oct 2024 - Oct 2024",
+      date: "Oct 2023 - Oct 2023",
       description:
         'Developed a "Rock-Paper-Scissors" Game, providing an interactive player vs. computer experience with dynamically generated computer moves. The game features a real-time result display, instantly announcing the winner or a tie after each round. It includes a scorekeeping functionality to track the players wins, losses, and ties throughout the session. Additionally, a "Play Again" option allows users to restart the game effortlessly for continuous enjoyment. The intuitive interface and responsive design ensure an engaging and seamless gaming experience across various devices.',
       image: require("./image/rock.png"),
@@ -530,9 +560,9 @@ export const projects= [
       webapp: "https://192005chandrakant.github.io/rock-paper-scissor-game/",
     },
     {
-      id: 1,
+      id: 5,
       title: "Amazon-UI Clone",
-      date: "Jan 2024 - Jan 2024",
+      date: "july 2023",
       description:
         'Developed an "Amazon UI Clone" to replicate the design and layout of the Amazon website. The project includes a responsive design, ensuring it works well on different devices and screen sizes. Key features like the homepage, product listings, and navigation menus were recreated to provide a simple and functional user interface.',
       image:require("./image/Amazon.png"),
@@ -557,32 +587,8 @@ export const projects= [
       // ],
      },
      
-    // {
-    //   id: 4,
-    //   title: "Whatsapp Clone",
-    //   date: "Jul 2021",
-    //   description:
-    //     "A WhatsApp clone made with React JS, Firebase, and Material UI. It has Phone Authentication, Real-time Database. It has a chat room where users can chat with each other. It has a sidebar where users can see all the chat rooms and can create a new chat room. It has a login page where users can log in with their Google account.",
-    //   image:
-    //     "https://firebasestorage.googleapis.com/v0/b/whatsapp-clone-rishav.appspot.com/o/Screenshot%20(151).png?alt=media&token=48391593-1ef0-4a8c-a92a-eb82bdf38e89",
-    //   tags: ["React Js", "Firebase", "Firestore", "Node JS"],
-    //   category: "web app",
-    //   github: "https://github.com/rishavchanda/Whatsapp-Clone-React-Js",
-    //   webapp: "https://whatsapp-clone-rishav.web.app",
-    // },
-    // {
-    //   id: 5,
-    //   title: "Todo Web App",
-    //   date: "Jun 2021",
-    //   description:
-    //     " A Todo Web App made with React JS, Redux, and Material UI. It has a login page where users can log in with their Google account. It has a sidebar where users can see all the tasks and can create a new task. It has a calendar where users can see all the tasks on a particular date. It has a search bar where users can search for a particular task.",
-    //   image:
-    //     "https://camo.githubusercontent.com/84ac6ab6f378348ef28d8184062b7e9e3511a1252ae3966eaa49e8e998f732a7/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f746f646f2d6170702d63386331392e61707073706f742e636f6d2f6f2f53637265656e73686f74253230283938292e706e673f616c743d6d6564696126746f6b656e3d33643335646366322d626666322d343730382d393031632d343232383866383332386633",
-    //   tags: ["React Js", "Local Storage", "AWS Auth", "Node JS"],
-    //   category: "web app",
-    //   github: "https://github.com/rishavchanda/Todo-Web-App",
-    //   webapp: "https://rishav-react-todo.netlify.app/",
-    // },
+    
+   
     // {
     //   id: 6,
     //   title: "Breaking Bad",
@@ -627,4 +633,5 @@ export const projects= [
 export const TimeLineData = [
   { year: 2023, text: "Started my journey" },
   { year: 2024, text: "Building various projects" },
+  { year: 2025, text: "Building various projects" },
 ];
